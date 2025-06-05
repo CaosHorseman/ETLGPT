@@ -1,5 +1,7 @@
 # ETLGPT
 
+## CRIANDO UM PROJETO DE ETL PARA CRM MARKETING UTILIZANDO CHAT GPT ##
+
 Projeto de ETL para CRM Marketing utilizando ChatGPT.
 
 ## Requisitos
